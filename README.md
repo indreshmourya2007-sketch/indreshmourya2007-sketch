@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**indreshmourya2007-sketch/indreshmourya2007-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const indreshMourya = {
+  title: "Software Engineering Student | Cloud Enthusiast | Top 10% Replit Agent",
+  stack: {
+    languages: ["C++", "Python", "JavaScript", "HTML5", "CSS3"],
+    fundamentals: ["Data Structures", "Algorithms", "OOP"],
+    cloudAndDevOps: ["Google Cloud Platform", "AWS (Learning Path)", "Git", "GitHub"],
+    aiTools: ["Replit Agent", "AI/ML Logic", "NLP"],
+    currentlyLearning: ["React", "Node.js", "REST APIs"],
+  },
+  launchedProjects: ["AgriSense", "Dr. Decode", "Lost & Found"],
+  certifications: ["Google Cloud Platform — 35+ Skill Badges"],
+  status: "Campus Ambassador @ E-Cell IIT Bombay & Internshala",
+  openTo: ["Hackathons", "Open-Source Collaboration", "Tech Opportunities"],
+};
